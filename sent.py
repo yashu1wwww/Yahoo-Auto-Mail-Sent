@@ -22,10 +22,10 @@ input=driver.find_element_by_xpath('//*[@id="login-signin"]').click()
 input=driver.find_element_by_xpath('/html/body/div[1]/div/div[1]/div/div[2]/div/div[1]/nav/div/div[1]/a').click()
 
 input=driver.find_element_by_xpath('//*[@id="message-to-field"]')
-input.send_keys('Yashwanth6678@gmail.com')  #enter your valid mail 
+input.send_keys('Yashwanth6678@gmail.com')  #enter your receiver mail address
 
 input=driver.find_element_by_xpath('//*[@id="mail-app-component"]/div/div/div/div[1]/div[3]/div/div/input')
-input.send_keys('the more you learn the more you earn') #change what line you want
+input.send_keys('the more you learn the more you earn') #change what line you want to sent in it
 
 input=driver.find_element_by_xpath('//*[@id="mail-app-component"]/div/div/div/div[2]/div[2]/div/button/span').click()
 
