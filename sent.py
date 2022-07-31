@@ -29,6 +29,8 @@ input.send_keys('the more you learn the more you earn') #change what line you wa
 
 input=driver.find_element_by_xpath('//*[@id="mail-app-component"]/div/div/div/div[2]/div[2]/div/button/span').click()
 
-time.sleep(20)
+time.sleep(6)
+
+driver.close()
 
 
