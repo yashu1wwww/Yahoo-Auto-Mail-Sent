@@ -3,10 +3,6 @@ Yahoo Auto Mail Sent Using Python With Selenium
 
 Change lines 9, 16, 25, and 28 in the code. Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that folder and enter 'sent.py' or double-click on the 'sent.py' file. This will enable automatic mailing for Yahoo Mail.
 
-You can watch a video tutorial on how to do this at
-
-https://youtu.be/c3gmSA3nox0
-
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
